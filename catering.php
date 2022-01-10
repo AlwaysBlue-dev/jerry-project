@@ -5,7 +5,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Royal Plate - Restaurant & Catering HTML Template</title>
+    <title>Fine Signature - Catering & Events</title>
     <meta name="description" content="Royal Plate is a HTML template created for restaurants and catering companies.">
     <meta name="author" content="pixel-industry">
     <meta name="keywords" content="CSS, HTML5, clean, restaurant, jQuery, retina, bootstrap">
@@ -280,7 +280,7 @@
 
                                 <p>Great food is a soul of every event, so our professional chefs offer you only the
                                     best dishes for your corporate event. From canapes to multi-course menus. Take a look!</p>
-                                <a href="menu-03.html" class="more-details triggerAnimation animated" data-animate='fadeInUp'>View menu <i class="fa fa-angle-double-right"></i></a>
+                                <a href="menu-04.html" class="more-details triggerAnimation animated" data-animate='fadeInUp'>View menu <i class="fa fa-angle-double-right"></i></a>
                             </figcaption>
                         </figure>
                     </div><!-- .menu-sample.style-1 end -->
@@ -308,7 +308,7 @@
 
                                 <p>Great food is a soul of every event, so our professional chefs offer you only the
                                     best dishes for your corporate event. From canapes to multi-course menus. Take a look!</p>
-                                <a href="menu-06.html" class="more-details triggerAnimation animated" data-animate='fadeInUp'>View menu <i class="fa fa-angle-double-right"></i></a>
+                                <a href="menu-07.html" class="more-details triggerAnimation animated" data-animate='fadeInUp'>View menu <i class="fa fa-angle-double-right"></i></a>
                             </figcaption>
                         </figure>
                     </div><!-- .menu-sample.style-1 end -->
@@ -336,7 +336,7 @@
 
                                 <p>Our talented culinary team have some nice surprises for you. Special combination of different
                                     dishes in one tasty and exciting menu! Menu that will please you and your guests.</p>
-                                <a href="menu-09.html" class="more-details triggerAnimation animated" data-animate='fadeInUp'>View menu <i class="fa fa-angle-double-right"></i></a>
+                                <a href="menu-10.html" class="more-details triggerAnimation animated" data-animate='fadeInUp'>View menu <i class="fa fa-angle-double-right"></i></a>
                             </figcaption>
                         </figure>
                     </div><!-- .menu-sample.style-1 end -->

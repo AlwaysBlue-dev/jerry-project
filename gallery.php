@@ -5,7 +5,7 @@
 
 <head>
         <meta charset="utf-8">
-        <title>Fine Signature</title>
+        <title>Fine Signature - Catering & Events</title>
         <meta name="description" content="Fine Signature is a HTML template created for restaurants and catering companies.">
         <meta name="author" content="pixel-industry">
         <meta name="keywords" content="CSS, HTML5, clean, restaurant, jQuery, retina, bootstrap">
