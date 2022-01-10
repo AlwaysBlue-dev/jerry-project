@@ -207,9 +207,9 @@
                                             <div class="otw-restaurant-wrap otw-input-wrap">
                                                 <select name="Restaurant" class="otw-reservation-restaurant selectpicker">
                                                     <option value="">Choose a place...</option>
-                                                    <option value="">London Center</option>
-                                                    <option value="">London West</option>
-                                                    <option value="">London East</option>
+                                                    <option value="">Karachi Center</option>
+                                                    <option value="">Karachi West</option>
+                                                    <option value="">Karachi East</option>
                                                 </select>
                                             </div>
 
@@ -255,7 +255,7 @@
                                             </div>
 
                                             <div class="otw-button-wrap">
-                                                <input type="submit" class="otw-submit" value="Find a Table">
+                                                <input type="submit" class="otw-submit" value="Get Reservation">
                                             </div>
                                         </div>
                                     </form>
@@ -324,7 +324,7 @@
                         </ul>.article-meta end -->
 
                         <p>Weddings are very special occasions that change the existence of the couple. This shows how significant it is for this excellent occasion to be arranged and overseen cautiously. The nature of the food served and the vibe made through proper decoration is undoubtedly going to help you create unforgettable memories. All of this is easily possible through fine signature planning services!</p>
-                        <a href="#" class="more-details triggerAnimation animated" data-animate='fadeInUp'>Find a table <i class="fa fa-angle-double-right"></i></a>
+                        <a href="#" class="more-details triggerAnimation animated" data-animate='fadeInUp'>Get Reservation <i class="fa fa-angle-double-right"></i></a>
 
                     </div><!-- .col-md-6 end -->
                 </div><!-- .row end -->
@@ -356,7 +356,7 @@
                         </ul>.article-meta end -->
 
                         <p>Having a professional party at your office is a very responsible job and must be done professionally. Fine signature delivers your demands with perfection, so the party goes without any worries.</p>
-                        <a href="#" class="more-details triggerAnimation animated" data-animate='fadeInUp'>Find a table <i class="fa fa-angle-double-right"></i></a>
+                        <a href="#" class="more-details triggerAnimation animated" data-animate='fadeInUp'>Get Reservation <i class="fa fa-angle-double-right"></i></a>
                     </div><!-- .col-md-6 end -->
                     <!-- .col-md-6 start -->
                     <div class="col-md-6 col-sm-6">
@@ -396,7 +396,7 @@
                         </ul>.article-meta end -->
 
                         <p>It’s simple. You have an event to plan, we have the solutions. Whether you are having a small intimate gathering or a huge celebration, Fine Signature will work with you to make your event spectacular! We can help you with every detail as we take away your planning stress. From developing your theme & decor, to catering, and entertainment, we can help create your party vision. A fresh breeze can refresh your day up in just a moment; we offer to arrange cruise parties around the sea. You can have bridal showers, bachelorette, or any event that you want and have a memorable day.</p>
-                        <a href="#" class="more-details triggerAnimation animated" data-animate='fadeInUp'>Find a table <i class="fa fa-angle-double-right"></i></a>
+                        <a href="#" class="more-details triggerAnimation animated" data-animate='fadeInUp'>Get Reservation <i class="fa fa-angle-double-right"></i></a>
 
                     </div><!-- .col-md-6 end -->
                 </div><!-- .row end -->

@@ -199,12 +199,11 @@
                         <ul class="breadcrumb">
                             <li><a href="index.php">Home</a></li>
                             <li><a href="about.php">About</a></li>
-                            <li><a href="menu-01.html">Menu</a></li>
                             <li><a href="reservations.php">Reservations</a></li>
                             <li><a href="catering.php">Catering</a></li>
-                            <li><a href="gallery.php">Gallery</a></li>
-                            <li><a href="blog.html">Blog</a></li>
+                            <li><a href="gallery.php">Gallery</a></li>                      
                             <li><a href="contact.php">Contact</a></li>
+                            <li><a href="gallery.php">Featured Halls</a></li>
                         </ul>
                     </div><!-- .col-md-6 end -->
                 </div><!-- .row end -->
