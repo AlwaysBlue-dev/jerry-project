@@ -162,10 +162,10 @@
 
                             <!-- .social-links start -->
                             <ul class="social-links">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://twitter.com/?lang=en"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="https://www.linkedin.com/login"><i class="fa fa-linkedin"></i></a></li>
                             </ul><!-- .social-links end -->
                         </div><!-- .col-md-6 end -->
 
@@ -199,11 +199,11 @@
                         <ul class="breadcrumb">
                             <li><a href="index.php">Home</a></li>
                             <li><a href="about.php">About</a></li>
-                            <li><a href="menu-01.php">Menu</a></li>
+                            <li><a href="menu-01.html">Menu</a></li>
                             <li><a href="reservations.php">Reservations</a></li>
                             <li><a href="catering.php">Catering</a></li>
                             <li><a href="gallery.php">Gallery</a></li>
-                            <li><a href="blog.php">Blog</a></li>
+                            <li><a href="blog.html">Blog</a></li>
                             <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </div><!-- .col-md-6 end -->

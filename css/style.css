@@ -305,10 +305,7 @@ img.float-right {
 .bottom-element-wrapper .social-links li a i {
     color: #fff;
 }
-.navbar{
-    background-color: lightcyan;
-    height: 130px;
-}
+
 
 /* ==========================================================================
     3. TYPOGRAPHY 
@@ -830,7 +827,7 @@ a.more-details .fa{
     background-image: url('../img/home-custom/1.jpg');  
 }
 .bkg-img4 {
-    background-image: url('../img/home-custom/2.jpg');  
+    background-image: url('../img/home-custom/4.jpeg');  
 }
 .bkg-img5 {
     background-image: url('../img/home-custom/3.jpg');  
