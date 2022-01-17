@@ -1,15 +1,44 @@
 <!DOCTYPE html>
-<html lang="en">
+
+<html>
+
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <title>Fine Signature - Catering & Events</title>
+    <meta name="description" content="Fine Signatureis a HTML template created for restaurants and catering companies.">
+    <meta name="author" content="pixel-industry">
+    <meta name="keywords" content="CSS, HTML5, clean, restaurant, jQuery, retina, bootstrap">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fine Signature</title>
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" /><!-- bootstrap grid -->
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css" /><!-- bootstrap theme -->
+    <link rel="stylesheet" href="css/style.css" /><!-- template styles -->
+    <link rel="stylesheet" href="css/color-default.css" /><!-- default template color styles -->
+    <link rel="stylesheet" href="css/retina.css" /><!-- retina ready styles -->
+    <link rel="stylesheet" href="css/responsive.css" /><!-- responsive styles -->
+    <link rel="stylesheet" href="css/animate.css" /><!-- animation for content -->
+
+    <!-- Google Web fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Suranna' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montez' rel='stylesheet' type='text/css'>
+
+    <!-- Font icons -->
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" /><!-- Font awesome icons -->
 </head>
+
 <body>
 
-  
-  <!-- <div class="page-content custom-img-background dark bkg-img6 custom-col-padding mb-100">
+    <?php
+    $title = 'services';
+    include "assets/phphacks/header.php";
+
+    ?>
+
+
+    <div class="page-content custom-img-background dark bkg-img6 custom-col-padding mb-100">
         <div class="container">
             <!-- .row start -->
             <div class="row">
@@ -201,7 +230,77 @@
                 </div><!-- .col-md-12 end -->
             </div><!-- .row end -->
         </div><!-- .container end -->
-    </div>.page-content end -->
+    </div>.<!--page-content end -->
+
+    <?php
+
+include "assets/phphacks/footer.php";
+
+?>
+
+<script src="js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
+<script src="js/bootstrap.min.js"></script><!-- .bootstrap script -->
+<script src="js/jquery.scripts.min.js"></script><!-- modernizr, retina, stellar for parallax -->
+<script src="js/jquery.dlmenu.min.js"></script><!-- for responsive menu -->
+<script src="js/include.js"></script><!-- custom js functions -->
+<script src="js/instagram-stream.jquery.js"></script><!-- instagram stream plugin -->
+<script src="js/TweenMax.min.js"></script> <!-- Plugin for smooth scrolling-->
+<script src="js/ScrollToPlugin.min.js"></script> <!-- Plugin for smooth scrolling-->
+
+<script>
+    /* <![CDATA[ */
+    jQuery(document).ready(function($) {
+        'use strict';
+
+        // BOOKING FORM AJAX SUBMIT START
+        $('.otw-widget-form .otw-submit').on('click', function(event) {
+            event.preventDefault();
+            var $form = $(this).closest('form');
+
+            var name = $form.find('.otw-reservation-name').val();
+            var email = $form.find('.otw-reservation-email').val();
+            var restaurant = $form.find('.otw-reservation-restaurant').val();
+            var date = $form.find('.otw-reservation-date').val();
+            var time = $form.find('.otw-reservation-time').val();
+            var guests = $form.find('.otw-party-size-select').val();
+            var form_data = new Array({
+                'Name': name,
+                'Email': email,
+                'Restaurant': restaurant,
+                'Date': date,
+                'Time': time,
+                'Guests': guests
+            });
+            $.ajax({
+                type: 'POST',
+                url: "contact.php",
+                data: ({
+                    'action': 'book_table',
+                    'form_data': form_data
+                })
+            }).done(function(data) {
+                alert(data);
+            });
+        }); // BOOKING FORM AJAX SUBMIT END
+
+        // INSTAGRAM STREAM START 
+        $('.instagram-stream').instagramstream({
+            limit: 22, // number of images to fetch
+            username: 'royaltyplate', // your username
+            overlay: true, // add overlay layer of hover effect
+            textContainer: '.is-text', // default: '.is-text', pass jQuery object or selector
+            textPosition: '10', // place that at this position
+            textSize: '4', // size of text e.g. 1 - has size like one image; 2 - has size of two images etc.
+            accessToken: '3315219258.4b0afec.8788057cf36948e98d27353bee5a77d9'
+        });
+
+
+    });
+    /* ]]> */
+</script>
+
 
 </body>
+
+
 </html>

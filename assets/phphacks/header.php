@@ -49,16 +49,18 @@
                                              <a href="about.php">About</a>
 
                                          </li>
-                                         <li class="dropdown  <?php if ($title == 'services') {
+
+                                         <li class="dropdown <?php if ($title == 'services') {
                                                                     echo 'current-menu-item';
                                                                 } ?> ">
-                                             <a href="#">Services</a>
-                                             <ul class="dropdown-menu">
-                                                 <li><a href="reservations.php">Reservations</a></li>
-                                                 <li><a href="catering.php">Catering</a></li>
+                                             <a href=" services.php">Services</a>
 
-                                             </ul><!-- .dropdown-menu end -->
+                                         <li><a href="reservations.php">Reservation</a></li>
+                                         <li><a href="catering.php">Catering</a></li>
+
+                                         <!-- .dropdown-menu end -->
                                          </li>
+
 
 
                                          <!-- <li>
@@ -76,7 +78,7 @@
                                                         } ?> ">
                                              <a href="gallery.php">Gallery</a>
                                          </li>
-                                       
+
                                          <!-- <li>
                                                     <a href="blog.php">Blog</a>                                          
                                                 </li> -->
@@ -107,11 +109,11 @@
                                              </li><!-- About li end -->
 
                                              <li>
-                                                 <a href="">Services</a>
-                                                 <ul class="dl-submenu">
-                                                     <li><a href="reservation.php">Reservations</a></li>
-                                                     <li><a href="catering.php">Catering</a></li>
-                                                 </ul><!-- .dl-submenu end -->
+
+                                             <li><a href="services.php">Services</a></li>
+                                             <li><a href="reservations.php">Reservations</a></li>
+                                             <li><a href="catering.php">Catering</a></li>
+                                             <!-- .dl-submenu end -->
                                              </li><!-- Menu li end -->
 
 
@@ -120,7 +122,7 @@
                                                  <a href="gallery.php">Gallery</a>
                                              </li><!-- Gallery li end -->
 
-                                           
+
 
                                              <li>
                                                  <a href="contact.php">Contact</a>
