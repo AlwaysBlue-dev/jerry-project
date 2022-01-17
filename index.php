@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <title>Fine Signature - Catering & Event Management</title>
-    <meta name="description" content="Royal Plate is a HTML template created for restaurants and catering companies.">
+    <meta name="description" content="Fine Signature is a HTML template created for restaurants and catering companies.">
     <meta name="author" content="pixel-industry">
     <meta name="keywords" content="CSS, HTML5, clean, restaurant, jQuery, retina, bootstrap">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -75,7 +75,7 @@
             <div class="row">
                 <!-- .col-md-3 start -->
                 <div class="col-md-3 col-sm-3 hidden-xs pt-80">
-                    <img src="img/pics/spices-left.png" alt="Royal Plate - Restaurant & Catering HTML Template" />
+                    <img src="img/pics/spices-left.png" alt="Fine Signature - Restaurant & Catering HTML Template" />
                 </div><!-- .col-md-3 end -->
 
                 <!-- .col-md-6 start -->
@@ -102,7 +102,7 @@
 
                 <!-- .col-md-3 start -->
                 <div class="col-md-3 col-sm-3 hidden-xs pt-80">
-                    <img src="img/pics/spices-right.png" alt="Royal Plate - Restaurant & Catering HTML Template" />
+                    <img src="img/pics/spices-right.png" alt="Fine Signature - Restaurant & Catering HTML Template" />
                 </div><!-- .col-md-3 end -->
             </div><!-- .row end -->
         </div><!-- .container end -->
@@ -123,7 +123,7 @@
                         <div class="divider style-2 center">
                             <span class="hr-double left"></span>
                             <span class="divider-svg">
-                                <img src="img/svg/heading-icon.svg" alt="Royal Plate Restaurant & Catering HTML Template">
+                                <img src="img/svg/heading-icon.svg" alt="Fine Signature Restaurant & Catering HTML Template">
                             </span>
                             <span class="hr-double right"></span>
                         </div>
@@ -150,7 +150,7 @@
                         <div class="divider style-2 center">
                             <span class="hr-double left"></span>
                             <span class="divider-svg">
-                                <img src="img/svg/heading-icon.svg" alt="Royal Plate Restaurant & Catering HTML Template">
+                                <img src="img/svg/heading-icon.svg" alt="Fine Signature Restaurant & Catering HTML Template">
                             </span>
                             <span class="hr-double right"></span>
                         </div>
@@ -172,7 +172,7 @@
                             <div class="item">
                                 <!-- .event-item-container start -->
                                 <ul class="event-item-container">
-                                    <li class="event-item-list"><img src="img/pics/img-01.jpg" alt="Royal Plate - Restaurant & Catering HTML Template" /></li>
+                                    <li class="event-item-list"><img src="img/pics/img-01.jpg" alt="Fine Signature - Restaurant & Catering HTML Template" /></li>
                                     <!-- .event-item-list.event-item-content start -->
                                     <li class="event-item-list event-item-content centered">
                                         <div class="custom-heading style-1">
@@ -191,7 +191,7 @@
                                             <li>Anniversaires</li>
                                             <li>Baby showers</li>
                                         </ul><!-- .article-meta end -->
-                                        <p>Celebrate your special event in beautiful atmosphere of Royal Plate.
+                                        <p>Celebrate your special event in beautiful atmosphere of Fine Signature.
                                             Exquisite & creative cousine, friendly atmosphere and highly professional staff will make your special day beautiful & enjoyable. You can select from couple of pre-made menus for every occasion that should please many
                                             different palates or work with us to create your own menu.</p>
                                         <a href="http://pixel-industry.com/html/royal-plate/catering-single-page" class="more-details">More details <i class="fa fa-angle-double-right"></i></a>
@@ -201,7 +201,7 @@
                             <div class="item">
                                 <!-- .event-item-container start -->
                                 <ul class="event-item-container">
-                                    <li class="event-item-list"><img src="img/pics/img-09.jpg" alt="Royal Plate - Restaurant & Catering HTML Template" /></li>
+                                    <li class="event-item-list"><img src="img/pics/img-09.jpg" alt="Fine Signature - Restaurant & Catering HTML Template" /></li>
                                     <!-- .event-item-list.event-item-content start -->
                                     <li class="event-item-list event-item-content centered">
                                         <div class="custom-heading style-1">
@@ -220,8 +220,8 @@
                                             <li>Team buildings,</li>
                                             <li>Corporate parties</li>
                                         </ul><!-- .article-meta end -->
-                                        <p>Planning an important business meeting with your partners? Impress them with lunch in Royal Plate.
-                                            Royal Plate covers everything from business lunches, to custom team building programs and corporate
+                                        <p>Planning an important business meeting with your partners? Impress them with lunch in Fine Signature.
+                                            Fine Signature covers everything from business lunches, to custom team building programs and corporate
                                             parties. No matter of party size and occasion, our catering specialist will plan your event to meet
                                             your needs.</p>
                                         <a href="http://pixel-industry.com/html/royal-plate/catering-single-page" class="more-details">More details <i class="fa fa-angle-double-right"></i></a>
@@ -231,7 +231,7 @@
                             <div class="item">
                                 <!-- .event-item-container start -->
                                 <ul class="event-item-container">
-                                    <li class="event-item-list"><img src="img/pics/img-10.jpg" alt="Royal Plate - Restaurant & Catering HTML Template" /></li>
+                                    <li class="event-item-list"><img src="img/pics/img-10.jpg" alt="Fine Signature - Restaurant & Catering HTML Template" /></li>
                                     <!-- .event-item-list.event-item-content start -->
                                     <li class="event-item-list event-item-content centered">
                                         <div class="custom-heading style-1">
@@ -272,14 +272,14 @@
                 <!-- .col-md-12 start -->
                 <div class="col-md-12 centered">
                     <div class="custom-heading style-1 triggerAnimation animated" data-animate='fadeInUp'>
-                        <h2><span>Visit us at Royal plate</span></h2>
+                        <h2><span>Visit us at Fine Signature</span></h2>
                         <h2>enjoyable & comfortable</h2>
 
                         <!-- .divider.style-2 start -->
                         <div class="divider style-2 center">
                             <span class="hr-double left"></span>
                             <span class="divider-svg">
-                                <img src="img/svg/heading-icon.svg" alt="Royal Plate Restaurant & Catering HTML Template">
+                                <img src="img/svg/heading-icon.svg" alt="Fine Signature Restaurant & Catering HTML Template">
                             </span>
                             <span class="hr-double right"></span>
                         </div>

@@ -76,11 +76,7 @@
                                                         } ?> ">
                                              <a href="gallery.php">Gallery</a>
                                          </li>
-                                         <li class=" <?php if ($title == 'featured') {
-                                                            echo 'current-menu-item';
-                                                        } ?> ">
-                                             <a href="gallery.php">Featured Halls</a>
-                                         </li>
+                                       
                                          <!-- <li>
                                                     <a href="blog.php">Blog</a>                                          
                                                 </li> -->
@@ -124,9 +120,7 @@
                                                  <a href="gallery.php">Gallery</a>
                                              </li><!-- Gallery li end -->
 
-                                             <li>
-                                                 <a href="gallery.php">Featured Hall</a>
-                                             </li><!-- Blog li end -->
+                                           
 
                                              <li>
                                                  <a href="contact.php">Contact</a>

@@ -6,7 +6,7 @@
 <head>
         <meta charset="utf-8">
         <title>Fine Signature - Catering & Events</title>
-        <meta name="description" content="Royal Plate is a HTML template created for restaurants and catering companies.">
+        <meta name="description" content="Fine Signature is a HTML template created for restaurants and catering companies.">
         <meta name="author" content="pixel-industry">
         <meta name="keywords" content="CSS, HTML5, clean, restaurant, jQuery, retina, bootstrap">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -125,7 +125,7 @@
                             <div class="divider style-2 center">
                                 <span class="hr-double left"></span>
                                 <span class="divider-svg">
-                                    <img class="svg-brown" src="img/svg/heading-icon.svg" alt="Royal Plate Restaurant & Catering HTML Template">
+                                    <img class="svg-brown" src="img/svg/heading-icon.svg" alt="Fine Signature Restaurant & Catering HTML Template">
                                 </span>
                                 <span class="hr-double right"></span>
                             </div>

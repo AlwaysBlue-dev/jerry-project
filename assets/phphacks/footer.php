@@ -1,24 +1,7 @@
         <!-- .page-content start -->
         <div class="page-content">
             <div class="container-fluid padding-0">
-                <!-- .row start -->
-                <div class="row mb-0">
-                    <!-- .col-md-12 start -->
-                    <div class="col-md-12 centered padding-0 mb-0">
-                        <article class="instagram-stream">
-                            <div class="is-text">
-                                <div class="is-text-inner-table">
-                                    <div class="is-text-inner-cell">
-                                        <p>Enjoyed your stay at Fine Signature? Share your moments with us. Follow us on Instagram and use</p>
-                                        <h3>#finesignature_moments</h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </article>
-                    </div><!-- .col-md-12 end -->
-                </div><!-- .row end -->
-            </div><!-- .container end -->
-        </div><!-- .page-content end -->
+             
         <!-- .page-content start -->
         <!-- <div class="page-content">
                 <div class="container">
@@ -203,7 +186,7 @@
                             <li><a href="catering.php">Catering</a></li>
                             <li><a href="gallery.php">Gallery</a></li>                      
                             <li><a href="contact.php">Contact</a></li>
-                            <li><a href="gallery.php">Featured Halls</a></li>
+                         
                         </ul>
                     </div><!-- .col-md-6 end -->
                 </div><!-- .row end -->

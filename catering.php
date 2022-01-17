@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <title>Fine Signature - Catering & Events</title>
-    <meta name="description" content="Royal Plate is a HTML template created for restaurants and catering companies.">
+    <meta name="description" content="Fine Signature is a HTML template created for restaurants and catering companies.">
     <meta name="author" content="pixel-industry">
     <meta name="keywords" content="CSS, HTML5, clean, restaurant, jQuery, retina, bootstrap">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -59,7 +59,7 @@
             <div class="row">
                 <!-- .col-md-6 start -->
                 <div class="col-md-6 col-sm-6">
-                    <img src="img/services-custom/2.jpg" alt="Royal Plate - Restaurant & Catering HTML Template" />
+                    <img src="img/services-custom/2.jpg" alt="Fine Signature - Restaurant & Catering HTML Template" />
                 </div><!-- .col-md-6 end -->
                 <!-- .col-md-6 start -->
                 <div class="col-md-6 col-sm-6 centered pt-60">
@@ -118,7 +118,7 @@
                 </div><!-- .col-md-6 end -->
                 <!-- .col-md-6 start -->
                 <div class="col-md-6 col-sm-6">
-                    <img src="img/services-custom//1.jpg" alt="Royal Plate - Restaurant & Catering HTML Template" />
+                    <img src="img/services-custom//1.jpg" alt="Fine Signature - Restaurant & Catering HTML Template" />
                 </div><!-- .col-md-6 end -->
             </div><!-- .row end -->
         </div><!-- .container end -->
@@ -131,7 +131,7 @@
             <div class="row">
                 <!-- .col-md-6 start -->
                 <div class="col-md-6 col-sm-6">
-                    <img src="img/services-custom/3.jpg" alt="Royal Plate - Restaurant & Catering HTML Template" />
+                    <img src="img/services-custom/3.jpg" alt="Fine Signature - Restaurant & Catering HTML Template" />
                 </div><!-- .col-md-6 end -->
                 <!-- .col-md-6 start -->
                 <div class="col-md-6 col-sm-6 centered pt-60">
@@ -192,7 +192,7 @@
                 </div><!-- .col-md-6 end -->
                 <!-- .col-md-6 start -->
                 <div class="col-md-6 col-sm-6">
-                    <img src="img/services-custom/4.jpg" alt="Royal Plate - Restaurant & Catering HTML Template" />
+                    <img src="img/services-custom/4.jpg" alt="Fine Signature - Restaurant & Catering HTML Template" />
                 </div><!-- .col-md-6 end -->
             </div><!-- .row end -->
         </div><!-- .container end -->
@@ -216,7 +216,7 @@
                         <div class="divider style-2 center">
                             <span class="hr-double left"></span>
                             <span class="divider-svg">
-                                <img src="img/svg/heading-icon.svg" alt="Royal Plate Restaurant & Catering HTML Template">
+                                <img src="img/svg/heading-icon.svg" alt="Fine Signature Restaurant & Catering HTML Template">
                             </span>
                             <span class="hr-double right"></span>
                         </div>
@@ -231,11 +231,11 @@
         <div class="container">
             <!-- .row start -->
             <div class="row mb-20">
-                <div class="col-md-4 col-sm-4 menu-package">
+                <div class="col-md-3 col-sm-4 menu-package">
                     <div class="menu-sample style-1 border-decor centered">
                         <figure>
                             <div class="menu-image">
-                                <img src="img/services-custom/6.jpg" alt="Royal Plate - Restaurant & Catering HTML Template" />
+                                <img src="img/services-custom/6.jpg" alt="Fine Signature - Restaurant & Catering HTML Template" />
                             </div>
 
                             <figcaption>
@@ -259,11 +259,40 @@
                     </div><!-- .menu-sample.style-1 end -->
                 </div><!-- .col-md-4 end -->
 
+                     <div class="col-md-4 col-sm-4 menu-package">
+                    <div class="menu-sample style-1 border-decor centered">
+                        <figure>
+                            <div class="menu-image">
+                                <img src="img/services-custom/7.jpg" alt="Fine Signature - Restaurant & Catering HTML Template" />
+                            </div>
+
+                            <figcaption>
+                                <div class="custom-heading style-1">
+                                    <h4>Corporate Menu</h4>
+
+                                    <!-- .divider.style-1 start -->
+                                    <div class="divider style-1 center">
+                                        <span class="hr-simple left"></span>
+                                        <i class="fa fa-circle hr-icon"></i>
+                                        <span class="hr-simple right"></span>
+                                    </div>
+                                </div><!-- .custom-heading.style-1 end -->
+
+                                <p>Great food is a soul of every event, so our professional chefs offer you only the
+                                    best dishes for your corporate event. From canapes to multi-course menus. Take a look!</p>
+                                <a href="menu-07.html" class="more-details triggerAnimation animated" data-animate='fadeInUp'>View menu <i class="fa fa-angle-double-right"></i></a>
+                            </figcaption>
+                        </figure>
+                    </div><!-- .menu-sample.style-1 end -->
+                </div><!-- .col-md-4 end -->
+
+                
+
                 <div class="col-md-4 col-sm-4 menu-package">
                     <div class="menu-sample style-1 border-decor centered">
                         <figure>
                             <div class="menu-image">
-                                <img src="img/services-custom/7.jpg" alt="Royal Plate - Restaurant & Catering HTML Template" />
+                                <img src="img/services-custom/7.jpg" alt="Fine Signature - Restaurant & Catering HTML Template" />
                             </div>
 
                             <figcaption>
@@ -287,39 +316,12 @@
                 </div><!-- .col-md-4 end -->
 
                 
-                <div class="col-md-4 col-sm-4 menu-package">
-                    <div class="menu-sample style-1 border-decor centered">
-                        <figure>
-                            <div class="menu-image">
-                                <img src="img/services-custom/7.jpg" alt="Royal Plate - Restaurant & Catering HTML Template" />
-                            </div>
-
-                            <figcaption>
-                                <div class="custom-heading style-1">
-                                    <h4>Corporate Menu</h4>
-
-                                    <!-- .divider.style-1 start -->
-                                    <div class="divider style-1 center">
-                                        <span class="hr-simple left"></span>
-                                        <i class="fa fa-circle hr-icon"></i>
-                                        <span class="hr-simple right"></span>
-                                    </div>
-                                </div><!-- .custom-heading.style-1 end -->
-
-                                <p>Great food is a soul of every event, so our professional chefs offer you only the
-                                    best dishes for your corporate event. From canapes to multi-course menus. Take a look!</p>
-                                <a href="menu-07.html" class="more-details triggerAnimation animated" data-animate='fadeInUp'>View menu <i class="fa fa-angle-double-right"></i></a>
-                            </figcaption>
-                        </figure>
-                    </div><!-- .menu-sample.style-1 end -->
-                </div><!-- .col-md-4 end -->
-
 
                 <div class="col-md-4 col-sm-4 menu-package">
                     <div class="menu-sample style-1 border-decor centered">
                         <figure>
                             <div class="menu-image">
-                                <img src="img/services-custom/6.jpg" alt="Royal Plate - Restaurant & Catering HTML Template" />
+                                <img src="img/services-custom/6.jpg" alt="Fine Signature - Restaurant & Catering HTML Template" />
                             </div>
 
                             <figcaption>
@@ -343,10 +345,14 @@
                 </div><!-- .col-md-4 end -->
             </div><!-- .row end -->
 
+              
+       
+
+
 
             <!-- .row start -->
             <div class="row">
-                <div class="col-md-12 centered triggerAnimation animated" data-animate='fadeInUp'>
+                <div class="col-md-10 centered triggerAnimation animated" data-animate='fadeInUp'>
                     <a href="contact.html" class="btn btn-big black"><span>Need custom menu? Contact us</span></a>
                 </div>
             </div><!-- .row end -->
@@ -362,7 +368,7 @@
                 <div class="col-md-12 centered">
                     <div class="custom-heading style-1 triggerAnimation animated" data-animate='fadeInUp'>
                         <h2><span>Venues</span></h2>
-                        <h2>Discover Royal plate venues</h2>
+                        <h2>Discover Fine Signature venues</h2>
                         <a href="#" class="btn btn-big gold"><span>Discover venus</span></a>
                     </div><!-- .custom-heading.style-1 end -->
                 </div><!-- .col-md-12 end -->
