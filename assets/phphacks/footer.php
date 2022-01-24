@@ -1,9 +1,9 @@
         <!-- .page-content start -->
         <div class="page-content">
             <div class="container-fluid padding-0">
-             
-        <!-- .page-content start -->
-        <!-- <div class="page-content">
+
+                <!-- .page-content start -->
+                <!-- <div class="page-content">
                 <div class="container">
                     
                     <div class="row">
@@ -93,105 +93,105 @@
 
 
 
-        <!-- #footer-wrapper start -->
-        <div id="footer-wrapper">
-            <!-- #footer start -->
-            <footer id="footer">
-                <!-- .container start -->
-                <div class="container">
-                    <!-- .row start -->
-                    <div class="row mb-60">
-                        <!-- .col-md-4 start -->
-                        <div class="col-md-4">
+                <!-- #footer-wrapper start -->
+                <div id="footer-wrapper">
+                    <!-- #footer start -->
+                    <footer id="footer">
+                        <!-- .container start -->
+                        <div class="container">
+                            <!-- .row start -->
+                            <div class="row mb-60">
+                                <!-- .col-md-4 start -->
+                                <div class="col-md-4">
 
-                        </div><!-- .col-md-4 end-->
+                                </div><!-- .col-md-4 end-->
 
-                        <!-- .col-md-4 start -->
-                        <div class="col-md-4 centered">
-                            <a href="index.php">
-                                <img src="img/logo.png" alt="">
-                            </a>
+                                <!-- .col-md-4 start -->
+                                <div class="col-md-4 centered">
+                                    <a href="index.php">
+                                        <img src="img/logo.png" alt="">
+                                    </a>
 
-                            <ul class="contact-info-list">
-                                <li>
-                                    Office No.202 2nd floor Dulara Business Center Plot No.19 Maniya Society Khalid Bin Waleed Road Karachi
+                                    <ul class="contact-info-list">
+                                        <li>
+                                            Office No.202 2nd floor Dulara Business Center Plot No.19 Maniya Society Khalid Bin Waleed Road Karachi
 
-                                </li>
-                                <li>
-                                    <span>CONTACT: </span>  +9234533320 & +9234533321
-                                </li>
+                                        </li>
+                                        <li>
+                                            <span>CONTACT: </span> +9234533320 & +9234533321
+                                        </li>
 
-                                <li>
-                                    <span>WORKING HOURS:</span>
-                                </li>
+                                        <li>
+                                            <span>WORKING HOURS:</span>
+                                        </li>
 
-                                <li>
-                                    MON- FRI: 08:00 AM - 10:00 PM
-                                </li>
-                                <li>SAT - SUN: 10:00 AM - 11:00 PM</li>
-                            </ul>
-                        </div><!-- .col-md-4 end -->
+                                        <li>
+                                            MON- FRI: 08:00 AM - 10:00 PM
+                                        </li>
+                                        <li>SAT - SUN: 10:00 AM - 11:00 PM</li>
+                                    </ul>
+                                </div><!-- .col-md-4 end -->
 
-                        <!-- .col-md-4 start -->
-                        <div class="col-md-4">
+                                <!-- .col-md-4 start -->
+                                <div class="col-md-4">
 
-                        </div><!-- .col-md-4 end-->
-                    </div><!-- .row end -->
+                                </div><!-- .col-md-4 end-->
+                            </div><!-- .row end -->
 
-                    <!-- .row start -->
-                    <div class="row mb-40">
-                        <!-- .col-md-6 start -->
-                        <div class="col-md-6">
+                            <!-- .row start -->
+                            <div class="row mb-40">
+                                <!-- .col-md-6 start -->
+                                <div class="col-md-6">
 
-                            <!-- .social-links start -->
-                            <ul class="social-links">
-                                <li><a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="https://twitter.com/?lang=en"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="https://www.linkedin.com/login"><i class="fa fa-linkedin"></i></a></li>
-                            </ul><!-- .social-links end -->
-                        </div><!-- .col-md-6 end -->
+                                    <!-- .social-links start -->
+                                    <ul class="social-links">
+                                        <li><a href="https://facebook.com/finesignatureevents"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="https://instagram.com/finesignatureevents?utm_medium=copy_link"><i class="fa fa-instagram"></i></a></li>
+                                        <li><a href="https://twitter.com/?lang=en"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/login"><i class="fa fa-linkedin"></i></a></li>
+                                    </ul><!-- .social-links end -->
+                                </div><!-- .col-md-6 end -->
 
-                        <!-- .col-md-6 start -->
-                        <div class="col-md-6">
-                            <!-- .newsletter start -->
-                            <!-- <form class="newsletter">
+                                <!-- .col-md-6 start -->
+                                <div class="col-md-6">
+                                    <!-- .newsletter start -->
+                                    <!-- <form class="newsletter">
                                 <input class="email" type="email" placeholder="Subscribe to our newsletter feed:">
                                 <input type="submit" class="submit" value="Submit">
                             </form> -->
-                            <!-- .newsletter end -->
-                        </div><!-- .col-md-6 end -->
-                    </div><!-- .row end -->
-                </div><!-- .container end -->
-            </footer><!-- #footer end -->
-        </div><!-- #footer-wrapper end -->
+                                    <!-- .newsletter end -->
+                                </div><!-- .col-md-6 end -->
+                            </div><!-- .row end -->
+                        </div><!-- .container end -->
+                    </footer><!-- #footer end -->
+                </div><!-- #footer-wrapper end -->
 
-        <!-- #copyright-container start -->
-        <div id="copyright-container">
-            <!-- .container start -->
-            <div class="container">
-                <!-- .row start -->
-                <div class="row">
-                    <!-- .col-md-6 start -->
-                    <div class="col-md-6">
-                        <p>© Fine Signature 2016. All rights reserved.</p>
-                    </div><!-- .col-md-6 end -->
+                <!-- #copyright-container start -->
+                <div id="copyright-container">
+                    <!-- .container start -->
+                    <div class="container">
+                        <!-- .row start -->
+                        <div class="row">
+                            <!-- .col-md-6 start -->
+                            <div class="col-md-6">
+                                <p>© Fine Signature 2016. All rights reserved.</p>
+                            </div><!-- .col-md-6 end -->
 
-                    <!-- .col-md-6 start -->
-                    <div class="col-md-6">
-                        <ul class="breadcrumb">
-                            <li><a href="index.php">Home</a></li>
-                            <li><a href="about.php">About</a></li>
-                            <li><a href="reservations.php">Reservations</a></li>
-                            <li><a href="catering.php">Catering</a></li>
-                            <li><a href="gallery.php">Gallery</a></li>                      
-                            <li><a href="contact.php">Contact</a></li>
-                         
-                        </ul>
-                    </div><!-- .col-md-6 end -->
-                </div><!-- .row end -->
-            </div><!-- .container end -->
+                            <!-- .col-md-6 start -->
+                            <div class="col-md-6">
+                                <ul class="breadcrumb">
+                                    <li><a href="index.php">Home</a></li>
+                                    <li><a href="about.php">About</a></li>
+                                    <li><a href="reservations.php">Reservations</a></li>
+                                    <li><a href="catering.php">Catering</a></li>
+                                    <li><a href="gallery.php">Gallery</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
 
-            <a href="#" class="scroll-up"><i class="fa fa-angle-double-up"></i></a>
+                                </ul>
+                            </div><!-- .col-md-6 end -->
+                        </div><!-- .row end -->
+                    </div><!-- .container end -->
 
-        </div><!-- .copyright-container end -->
+                    <a href="#" class="scroll-up"><i class="fa fa-angle-double-up"></i></a>
+
+                </div><!-- .copyright-container end -->
